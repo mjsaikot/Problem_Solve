@@ -1,0 +1,73 @@
+A problem set that will help me to grow.
+- Write a program that prints "Hello, World!" to the console.
+
+- Create variables of different data types and print them. Example: Integer, String, Boolean.
+
+Basic Arithmetic Calculator:
+- Write a program that takes two numbers as input and allows the user to perform basic arithmetic operations (addition, subtraction, multiplication, division) on them.
+
+Fibonacci Sequence:
+- Write a function that returns the nth number in the Fibonacci sequence.
+
+Palindrome Checker:
+Create a program that checks if a given string is a palindrome (the same forwards and backwards).
+
+Factorial Calculator:
+Write a function that calculates the factorial of a given number.
+
+Prime Number Checker:
+Develop a program that checks if a number is prime.
+
+Sorting Algorithm:
+Implement a sorting algorithm, like bubble sort or quicksort, to sort an array of numbers.
+
+Find the Largest/Smallest Number in an Array:
+Write a program that finds the largest and smallest number in an unsorted array.
+
+String Reversal:
+Create a function that reverses a string.
+
+Sum of an Array:
+Write a program that calculates the sum of all numbers in an array.
+
+Linear Search:
+Implement linear search to find a particular element in an array.
+
+Binary Search:
+Implement binary search on a sorted array.
+
+Duplicate Elements in Array:
+Write a program to find duplicate elements in an array.
+
+FizzBuzz:
+Print numbers from 1 to n. For multiples of 3 print "Fizz" instead of the number and for the multiples of 5 print "Buzz". For numbers which are multiples of both 3 and 5, print "FizzBuzz".
+
+Anagram Checker:
+Create a program that checks if two strings are anagrams of each other.
+
+Count Vowels and Consonants in a String:
+Write a program that counts the number of vowels and consonants in a given string.
+
+Find the Second Largest Number in an Array:
+Write a program to find the second largest number in an array.
+
+Recursive Functions:
+Implement a recursive function, like a recursive implementation of the Fibonacci sequence.
+
+Simple Tic-Tac-Toe Game:
+Create a simple console-based Tic-Tac-Toe game.
+
+Matrix Operations (Addition, Subtraction, Multiplication):
+Implement functions for basic matrix operations.
+
+Basic File Operations:
+Write a program to read from and write to a file.
+
+Implement a Linked List:
+Create a basic linked list with operations like add, remove, and search.
+
+Balanced Parentheses Checker:
+Write an algorithm to check if a given string of parentheses (e.g., "()[]{}") is balanced.
+
+Tower of Hanoi:
+Solve the Tower of Hanoi puzzle using recursion.
