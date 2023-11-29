@@ -1,10 +1,11 @@
+/*Make a program of fibonacci series*/
 #include <stdio.h>
 
 int main() {
     // Write C code here
-    int n;
-    int t1 = 0, t2 = 1;
-    int nextTerm = t1 + t2;
+    int n; //term numbers
+    int t1 = 0, t2 = 1; //series initialize
+    int nextTerm = t1 + t2; //third term initialize
     printf("Enter the number of term: ");
     scanf("%d", &n);
     printf("Your Fibonacci Series is: ");
